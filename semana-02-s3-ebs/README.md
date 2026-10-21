@@ -2,8 +2,8 @@
 
 ## Temas
 
-- [ ] Clases de almacenamiento de S3 e Intelligent-Tiering
-- [ ] Lifecycle, versionado, replicación (CRR/SRR)
+- [x] Clases de almacenamiento de S3 e Intelligent-Tiering
+- [x] Lifecycle, versionado, replicación (CRR/SRR)
 - [ ] Cifrado: SSE-S3, SSE-KMS, SSE-C, cliente; bucket policies
 - [ ] Object Lock, Glacier Vault Lock, presigned URLs, Transfer Acceleration, multipart
 - [ ] EBS: gp3, io2, st1, sc1; snapshots; instance store
