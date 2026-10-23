@@ -1,6 +1,6 @@
 # AWS Certified Solutions Architect – Associate (SAA-C03): apuntes de estudio
 
-Apuntes propios para preparar el examen **SAA-C03**, escritos semana a semana entre octubre de 2026 y enero de 2027.
+Apuntes propios para preparar el examen **SAA-C03**, escritos entre octubre y noviembre de 2026.
 
 Parten de dos proyectos construidos en AWS:
 
@@ -11,11 +11,12 @@ Parten de dos proyectos construidos en AWS:
 
 - 65 preguntas en 130 minutos; se aprueba con 720/1000.
 - Dominios: **Secure 30%** · **Resilient 26%** · **High-Performing 24%** · **Cost-Optimized 20%**.
-- Fecha objetivo: semana del **18 de enero de 2027**.
+- Primer intento: **15–16 de noviembre de 2026** (ventana de la promoción: hasta el 17 de noviembre).
+- Segundo intento gratis, si hace falta: **enero–febrero de 2027**.
 
 ## Plan
 
-A mi ritmo: cada semana, teoría y apuntes del tema y, al cerrarla, preguntas de práctica.
+Sprint diario en modo examen: unos dos temas por sesión, con teoría concisa, escenarios tipo SAA y apuntes cortos. Del 23 de octubre al 9 de noviembre, temas; del 10 al 14 de noviembre, exámenes de práctica. Las semanas de la tabla agrupan los temas, no son semanas de calendario.
 
 | Semana | Tema | Estado |
 |---|---|---|
