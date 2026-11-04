@@ -4,7 +4,7 @@
 
 - [x] EFS (clases, modos de rendimiento) vs EBS vs S3
 - [x] FSx for Windows, Lustre, NetApp ONTAP, OpenZFS
-- [ ] Storage Gateway (File, Volume, Tape)
+- [x] Storage Gateway (File, Volume, Tape)
 - [ ] DataSync, Transfer Family, familia Snow
 
 ## Apuntes
