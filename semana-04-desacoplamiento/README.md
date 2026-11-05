@@ -2,7 +2,7 @@
 
 ## Temas
 
-- [ ] SQS Standard vs FIFO, visibility timeout, DLQ, long polling
+- [x] SQS Standard vs FIFO, visibility timeout, DLQ, long polling
 - [ ] SNS y fan-out SNS → SQS
 - [ ] EventBridge y Step Functions
 - [ ] Kinesis Data Streams vs Firehose; MSK y Amazon MQ
