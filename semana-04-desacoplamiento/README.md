@@ -5,7 +5,7 @@
 - [x] SQS Standard vs FIFO, visibility timeout, DLQ, long polling
 - [x] SNS y fan-out SNS → SQS
 - [x] EventBridge y Step Functions
-- [ ] Kinesis Data Streams vs Firehose; MSK y Amazon MQ
+- [x] Kinesis Data Streams vs Firehose; MSK y Amazon MQ
 
 ## Apuntes
 
