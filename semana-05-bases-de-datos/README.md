@@ -3,7 +3,7 @@
 ## Temas
 
 - [x] Repaso: RDS, Multi-AZ, Read Replicas, ElastiCache (Bitácora)
-- [ ] Aurora: réplicas, Serverless, Global Database; RDS Proxy
+- [x] Aurora: réplicas, Serverless, Global Database; RDS Proxy
 - [ ] DynamoDB: GSI/LSI, DAX, Streams, Global Tables, modos de capacidad
 - [ ] Redshift, Athena; Neptune, DocumentDB, Keyspaces, Timestream
 
